@@ -1,4 +1,4 @@
-
+import cardLogo from "../images/card-logo.svg"
 
 export default function Cards(props){
     const{ name, number, year, month, cvc} = props.card
@@ -17,7 +17,7 @@ export default function Cards(props){
 
                 <div className="card card-front">
                     <div className="logo-wrapper">
-                        <img src="../card-logo.svg" alt="card-logo" 
+                        <img src={cardLogo} alt="card-logo" 
                         className="card-logo"/>
                     </div>
                     <p className="card-number">

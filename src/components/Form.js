@@ -1,4 +1,4 @@
-
+import iconComplete from "../images/icon-complete.svg"
 
 export default function Form(props){
     const{ name, number, year, month, cvc, pop} = props.card
@@ -100,7 +100,7 @@ export default function Form(props){
 
                 {pop &&
                 <div className="pop-up">
-                <img src="../icon-complete.svg" alt="" />
+                <img src={iconComplete} alt="" />
                 <h1>Thank You!</h1>
                 <h3>We've added your card details</h3>
                 </div>

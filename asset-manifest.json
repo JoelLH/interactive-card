@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/JoelLH/interactive-card/static/css/main.e3e4be26.css",
+    "main.js": "/JoelLH/interactive-card/static/js/main.236a2b35.js",
+    "static/js/787.2fa85f20.chunk.js": "/JoelLH/interactive-card/static/js/787.2fa85f20.chunk.js",
+    "static/media/bg-main-desktop.png": "/JoelLH/interactive-card/static/media/bg-main-desktop.806e7aa7b4dbc1d78bc3.png",
+    "static/media/bg-card-back.png": "/JoelLH/interactive-card/static/media/bg-card-back.23f68fa3aa3d5b33dfc8.png",
+    "static/media/bg-card-front.png": "/JoelLH/interactive-card/static/media/bg-card-front.8153e2ca184402a8385f.png",
+    "static/media/bg-main-mobile.png": "/JoelLH/interactive-card/static/media/bg-main-mobile.caa4689407777a312ede.png",
+    "index.html": "/JoelLH/interactive-card/index.html",
+    "static/media/icon-complete.svg": "/JoelLH/interactive-card/static/media/icon-complete.8fd757c0c5c44b1d597ca411400e046d.svg",
+    "static/media/card-logo.svg": "/JoelLH/interactive-card/static/media/card-logo.8ca9036515954c3f8191559dce9c7bdf.svg",
+    "main.e3e4be26.css.map": "/JoelLH/interactive-card/static/css/main.e3e4be26.css.map",
+    "main.236a2b35.js.map": "/JoelLH/interactive-card/static/js/main.236a2b35.js.map",
+    "787.2fa85f20.chunk.js.map": "/JoelLH/interactive-card/static/js/787.2fa85f20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3e4be26.css",
+    "static/js/main.236a2b35.js"
+  ]
+}
